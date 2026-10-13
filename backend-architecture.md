@@ -1,3 +1,10 @@
+
+## What The Backend Does
+- User Authentication
+- Account Syncing
+- Media Management
+- Database Management & Routing
+
 # Backend architecture
 
 Proposed architecture for the AI-Animated Children's Story Frame. Student D owns the backend API, data and media storage design, job orchestration, and frame delivery. Stack choices remain subject to team approval.
@@ -49,4 +56,3 @@ flowchart TD
 - Job lifecycle: `UPLOADED → QUEUED → GENERATING → MODERATING → READY → DELIVERED`. Failures enter `FAILED` with a recorded reason.
 - `DELIVERED` means the assigned frame has acknowledged a successful download. It does not imply playback.
 - Story text and narration generation remain an interface decision to confirm with Student B.
-
