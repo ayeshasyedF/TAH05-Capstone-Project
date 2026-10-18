@@ -1,4 +1,4 @@
-## Frontend Overview
+## Frontend Overview:
 - A parent-controlled mobile application that allows parents to upload their child's drawings and turn them into an AI-animated educational story. 
 - Parents can view previously made stories in the app, all featured in a gallery aesthetic.
 - Parents will also approve the AI-animated stories in the app before sending them to the frame/screen.
