@@ -1,2 +1,0 @@
-## What the Frontend Does:
-
