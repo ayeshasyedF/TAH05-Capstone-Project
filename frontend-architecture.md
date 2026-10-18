@@ -13,5 +13,5 @@
 - Frame management/pairing (connection established or not)
 - Parent controls
 
-  
+## Initial Mobile App User-Flow:  
 <img width="252" height="497" alt="Initial Mobile App User-flow" src="https://github.com/user-attachments/assets/51236883-4fe5-493c-afed-4633ef2f815c" />
